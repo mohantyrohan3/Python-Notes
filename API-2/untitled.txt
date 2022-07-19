@@ -1,0 +1,17 @@
+Authorization - What you can do
+Authentication - Who you are
+
+
+HTTP Basic Authentication
+
+requests.get("Url",auth=HTTPBasicauth("user","password"))
+requests.get("Url",auth=("user","password")) // Directly we can write auth=()
+
+from requests.auth import HTTPBasicAuth
+
+Another auth is HTTPDigestAuth
+
+Oauth - Authorization server supplies access tokens to the client after successfully authenticating the resource owner and obtaining authorization.
+
+
+
