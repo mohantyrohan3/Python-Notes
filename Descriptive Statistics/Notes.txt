@@ -15,4 +15,6 @@ Left Skewed Data - Mean < Median < Mode  ( In graph it has a longer left tail)
 
 Right Skewed Data - Mean > Median > Mode  ( In graph it has a longer right tail)
 
+
+
     
