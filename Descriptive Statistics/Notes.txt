@@ -1,0 +1,18 @@
+
+1.  Mean
+    X̄ = (Sum of values ÷ Number of values)
+
+    X̄ = (x1 + x2 + x3 +….+xn)/n
+    
+    Mean of Population (u (meun))
+    Mean of sample (x bar)
+    
+
+
+Symmetric Data - Majority of data points lie near mean
+
+Left Skewed Data - Mean < Median < Mode  ( In graph it has a longer left tail)
+
+Right Skewed Data - Mean > Median > Mode  ( In graph it has a longer right tail)
+
+    
